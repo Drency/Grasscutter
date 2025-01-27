@@ -8,6 +8,20 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -18,6 +32,13 @@
         "itemId": 100084,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -32,6 +53,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -42,6 +70,13 @@
         "itemId": 100084,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -56,6 +91,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -66,6 +108,13 @@
         "itemId": 100084,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -80,6 +129,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -90,6 +146,13 @@
         "itemId": 100084,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -104,6 +167,13 @@
         "maxCount": 2,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -114,6 +184,13 @@
         "itemId": 100061,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -128,6 +205,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -138,6 +222,13 @@
         "itemId": 100061,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -152,6 +243,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -162,6 +260,13 @@
         "itemId": 100061,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -176,6 +281,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -186,6 +298,13 @@
         "itemId": 100061,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -200,6 +319,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -210,6 +336,13 @@
         "itemId": 100061,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -224,6 +357,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -234,6 +374,13 @@
         "itemId": 100094,
         "minCount": 2,
         "maxCount": 3,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -248,6 +395,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -258,6 +412,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -272,6 +433,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -282,6 +450,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -296,6 +471,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -306,6 +488,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -320,6 +509,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -330,6 +526,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -344,6 +547,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -354,6 +564,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -368,6 +585,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -378,6 +602,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -392,6 +623,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -402,6 +640,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -416,6 +661,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -426,6 +678,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -440,6 +699,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -450,6 +716,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -464,6 +737,13 @@
         "maxCount": 1,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -474,6 +754,13 @@
         "itemId": 100064,
         "minCount": 1,
         "maxCount": 1,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -516,6 +803,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -555,6 +849,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -596,6 +897,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -635,6 +943,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -676,6 +991,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -715,6 +1037,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -756,6 +1085,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -795,6 +1131,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -836,6 +1179,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -875,6 +1225,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -916,6 +1273,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -955,6 +1319,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -996,6 +1367,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1035,6 +1413,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1076,6 +1461,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1115,6 +1507,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1156,76 +1555,219 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 29010101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29010102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29010103,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29010104,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29020101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29020102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29030103,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29030106,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29040101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29040102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29040103,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29040104,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29040111,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29050102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29050104,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29060202,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 29060203,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20020101,
@@ -1243,44 +1785,123 @@
         "maxCount": 5,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 20040101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040201,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040202,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040301,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040302,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040401,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040501,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20040601,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20010501,
@@ -1318,6 +1939,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1359,6 +1987,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1398,6 +2033,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1439,6 +2081,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1478,6 +2127,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1519,6 +2175,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1558,6 +2221,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1599,6 +2269,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1638,6 +2315,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1679,6 +2363,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1718,6 +2409,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1759,6 +2457,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1799,20 +2504,51 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 20050101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20050102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 20070101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 21010201,
@@ -1850,6 +2586,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1891,6 +2634,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -1930,6 +2680,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -1971,6 +2728,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2010,6 +2774,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2051,6 +2822,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2090,6 +2868,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2131,6 +2916,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2170,6 +2962,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2211,6 +3010,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2250,6 +3056,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2291,6 +3104,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2330,6 +3150,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2371,6 +3198,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2410,6 +3244,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2451,6 +3292,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2490,6 +3338,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2531,6 +3386,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2555,6 +3417,13 @@
         "itemId": 100018,
         "minCount": 3,
         "maxCount": 3,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -2597,6 +3466,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2636,6 +3512,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2677,6 +3560,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2716,6 +3606,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2757,6 +3654,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2796,6 +3700,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2837,6 +3748,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2876,6 +3794,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2917,6 +3842,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -2956,6 +3888,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -2997,6 +3936,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3036,6 +3982,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3077,6 +4030,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3116,6 +4076,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3157,6 +4124,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3196,6 +4170,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3237,6 +4218,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3276,6 +4264,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3317,6 +4312,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3356,6 +4358,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3397,6 +4406,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3436,6 +4452,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3477,6 +4500,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3516,6 +4546,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3578,6 +4615,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3638,6 +4682,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3700,6 +4751,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3760,6 +4818,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3822,6 +4887,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3883,6 +4955,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -3922,6 +5001,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -3963,6 +5049,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4002,6 +5095,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4043,12 +5143,27 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 22060101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 22070101,
@@ -4086,6 +5201,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4127,6 +5249,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4166,6 +5295,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4207,6 +5343,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4246,6 +5389,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4287,6 +5437,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4326,6 +5483,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4388,6 +5552,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4448,6 +5619,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4510,6 +5688,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4570,6 +5755,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4632,6 +5824,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4692,6 +5891,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4754,6 +5960,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4814,6 +6027,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4876,6 +6096,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -4936,6 +6163,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -4998,6 +6232,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5059,6 +6300,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5098,6 +6346,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5139,6 +6394,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5178,6 +6440,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5219,6 +6488,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5258,6 +6534,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5299,12 +6582,27 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 24010401,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 24020101,
@@ -5342,6 +6640,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5383,6 +6688,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5422,6 +6734,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5463,6 +6782,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5502,6 +6828,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5543,6 +6876,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5582,6 +6922,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5623,6 +6970,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5662,6 +7016,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5703,6 +7064,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5742,6 +7110,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5783,16 +7158,39 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 24021101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 24021102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 23010101,
@@ -5830,6 +7228,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5871,6 +7276,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5910,6 +7322,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -5951,6 +7370,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -5990,6 +7416,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6031,6 +7464,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6070,6 +7510,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6111,6 +7558,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6150,6 +7604,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6191,6 +7652,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6230,6 +7698,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6271,6 +7746,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6310,6 +7792,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6351,6 +7840,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6390,6 +7886,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6431,6 +7934,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6470,6 +7980,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6511,6 +8028,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6550,6 +8074,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6591,6 +8122,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6630,6 +8168,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6671,6 +8216,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6710,6 +8262,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6751,6 +8310,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6790,6 +8356,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6831,6 +8404,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6870,6 +8450,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6911,6 +8498,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -6950,6 +8544,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -6991,6 +8592,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7030,6 +8638,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7071,6 +8686,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7110,6 +8732,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7151,6 +8780,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7190,6 +8826,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7231,6 +8874,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7271,24 +8921,63 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 25090101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 25090102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 25090103,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 25090104,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 25100101,
@@ -7326,6 +9015,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7367,6 +9063,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7406,6 +9109,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7447,6 +9157,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7486,6 +9203,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7527,6 +9251,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7566,6 +9297,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7607,6 +9345,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7646,6 +9391,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7687,6 +9439,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7726,6 +9485,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7767,20 +9533,51 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 26020101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26020102,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26020201,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26030101,
@@ -7818,6 +9615,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7859,6 +9663,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7898,6 +9709,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -7939,6 +9757,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -7979,28 +9804,75 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
   {
     "monsterId": 26050101,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26050201,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26050301,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26050401,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26050501,
-    "dropDataList": []
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
+      }
+    ]
   },
   {
     "monsterId": 26050601,
@@ -8038,6 +9910,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8079,6 +9958,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8096,6 +9982,13 @@
         "itemId": 202,
         "minCount": 1,
         "maxCount": 5,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -8117,6 +10010,13 @@
         "maxCount": 5,
         "minWeight": 0,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8134,6 +10034,13 @@
         "itemId": 202,
         "minCount": 1,
         "maxCount": 5,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
         "minWeight": 0,
         "maxWeight": 10000
       }
@@ -8176,6 +10083,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8215,6 +10129,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8256,6 +10177,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8295,6 +10223,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8336,6 +10271,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8375,6 +10317,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8416,6 +10365,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8455,6 +10411,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8517,6 +10480,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8577,6 +10547,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8639,6 +10616,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8699,6 +10683,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8761,6 +10752,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8821,6 +10819,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -8883,6 +10888,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8944,6 +10956,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -8983,6 +11002,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9024,6 +11050,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9063,6 +11096,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9104,6 +11144,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9143,6 +11190,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9184,6 +11238,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9223,6 +11284,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9264,6 +11332,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9303,6 +11378,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9344,6 +11426,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9383,6 +11472,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9424,6 +11520,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9463,6 +11566,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9504,6 +11614,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9543,6 +11660,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9584,6 +11708,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9623,6 +11754,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9664,6 +11802,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9703,6 +11848,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9744,6 +11896,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9783,6 +11942,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9824,6 +11990,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9863,6 +12036,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9904,6 +12084,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -9943,6 +12130,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -9984,6 +12178,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -10023,6 +12224,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -10064,6 +12272,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -10103,6 +12318,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]
@@ -10144,6 +12366,13 @@
         "maxCount": 1,
         "minWeight": 9501,
         "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
+        "maxWeight": 10000
       }
     ]
   },
@@ -10183,6 +12412,13 @@
         "minCount": 1,
         "maxCount": 1,
         "minWeight": 9501,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 0,
         "maxWeight": 10000
       }
     ]

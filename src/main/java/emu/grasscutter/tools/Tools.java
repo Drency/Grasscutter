@@ -44,19 +44,20 @@ public final class Tools {
     public static void createGmHandbooks(boolean message) throws Exception {
         // Check if the GM Handbook directory exists.
         val handbookDir = new File("GM Handbook");
-        if (handbookDir.exists()) return;
+        if (handbookDir.exists())
+            return;
 
         val languages = Language.TextStrings.getLanguages();
 
         ResourceLoader.loadAll();
-        val mainQuestTitles =
-                new Int2IntRBTreeMap(
-                        GameData.getMainQuestDataMap().int2ObjectEntrySet().stream()
-                                .collect(
-                                        Collectors.toMap(
-                                                e -> e.getIntKey(), e -> (int) e.getValue().getTitleTextMapHash())));
+        val mainQuestTitles = new Int2IntRBTreeMap(
+                GameData.getMainQuestDataMap().int2ObjectEntrySet().stream()
+                        .collect(
+                                Collectors.toMap(
+                                        e -> e.getIntKey(), e -> (int) e.getValue().getTitleTextMapHash())));
         // val questDescs = new
-        // Int2IntRBTreeMap(GameData.getQuestDataMap().int2ObjectEntrySet().stream().collect(Collectors.toMap(e -> (int) e.getIntKey(), e -> (int) e.getValue().getDescTextMapHash())));
+        // Int2IntRBTreeMap(GameData.getQuestDataMap().int2ObjectEntrySet().stream().collect(Collectors.toMap(e
+        // -> (int) e.getIntKey(), e -> (int) e.getValue().getDescTextMapHash())));
 
         val avatarDataMap = new Int2ObjectRBTreeMap<>(GameData.getAvatarDataMap());
         val itemDataMap = new Int2ObjectRBTreeMap<>(GameData.getItemDataMap());
@@ -68,41 +69,40 @@ public final class Tools {
         Function<SortedMap<?, ?>, String> getPad = m -> "%" + m.lastKey().toString().length() + "s : ";
 
         // Create builders and helper functions
-        val handbookBuilders =
-                IntStream.range(0, TextStrings.NUM_LANGUAGES).mapToObj(i -> new StringBuilder()).toList();
-        var h =
-                new Object() {
-                    void newLine(String line) {
-                        handbookBuilders.forEach(b -> b.append(line + "\n"));
-                    }
+        val handbookBuilders = IntStream.range(0, TextStrings.NUM_LANGUAGES).mapToObj(i -> new StringBuilder())
+                .toList();
+        var h = new Object() {
+            void newLine(String line) {
+                handbookBuilders.forEach(b -> b.append(line + "\n"));
+            }
 
-                    void newSection(String title) {
-                        newLine("\n\n// " + title);
-                    }
+            void newSection(String title) {
+                newLine("\n\n// " + title);
+            }
 
-                    void newTranslatedLine(String template, TextStrings... textstrings) {
-                        for (int i = 0; i < TextStrings.NUM_LANGUAGES; i++) {
-                            String s = template;
-                            for (int j = 0; j < textstrings.length; j++)
-                                try {
-                                    s = s.replace("{" + j + "}", textstrings[j].strings[i]);
-                                } catch (NullPointerException ignored) {
-                                    // TextMap cache is outdated.
-                                    j--; // Retry the action.
-                                    Language.loadTextMaps(true);
-                                }
-                            handbookBuilders.get(i).append(s + "\n");
+            void newTranslatedLine(String template, TextStrings... textstrings) {
+                for (int i = 0; i < TextStrings.NUM_LANGUAGES; i++) {
+                    String s = template;
+                    for (int j = 0; j < textstrings.length; j++)
+                        try {
+                            s = s.replace("{" + j + "}", textstrings[j].strings[i]);
+                        } catch (NullPointerException ignored) {
+                            // TextMap cache is outdated.
+                            j--; // Retry the action.
+                            Language.loadTextMaps(true);
                         }
-                    }
+                    handbookBuilders.get(i).append(s + "\n");
+                }
+            }
 
-                    void newTranslatedLine(String template, long... hashes) {
-                        newTranslatedLine(
-                                template,
-                                LongStream.of(hashes)
-                                        .mapToObj(hash -> getTextMapKey(hash))
-                                        .toArray(TextStrings[]::new));
-                    }
-                };
+            void newTranslatedLine(String template, long... hashes) {
+                newTranslatedLine(
+                        template,
+                        LongStream.of(hashes)
+                                .mapToObj(hash -> getTextMapKey(hash))
+                                .toArray(TextStrings[]::new));
+            }
+        };
 
         // Preamble
         h.newLine("// Grasscutter " + GameConstants.VERSION + " GM Handbook");
@@ -113,20 +113,18 @@ public final class Tools {
         // Commands
         h.newSection("Commands");
         final List<CommandHandler> cmdList = CommandMap.getInstance().getHandlersAsList();
-        final String padCmdLabel =
-                "%"
-                        + cmdList.stream()
-                                .map(CommandHandler::getLabel)
-                                .map(String::length)
-                                .max(Integer::compare)
-                                .get()
-                        + "s : ";
+        final String padCmdLabel = "%"
+                + cmdList.stream()
+                        .map(CommandHandler::getLabel)
+                        .map(String::length)
+                        .max(Integer::compare)
+                        .get()
+                + "s : ";
         for (CommandHandler cmd : cmdList) {
             final String label = padCmdLabel.formatted(cmd.getLabel());
             final String descKey = cmd.getDescriptionKey();
             for (int i = 0; i < TextStrings.NUM_LANGUAGES; i++) {
-                String desc =
-                        languages.get(i).get(descKey).replace("\n", "\n\t\t\t\t").replace("\t", "    ");
+                String desc = languages.get(i).get(descKey).replace("\n", "\n\t\t\t\t").replace("\t", "    ");
                 handbookBuilders.get(i).append(label + desc + "\n");
             }
         }
@@ -134,8 +132,7 @@ public final class Tools {
         h.newSection("Avatars");
         val avatarPre = getPad.apply(avatarDataMap);
         avatarDataMap.forEach(
-                (id, data) ->
-                        h.newTranslatedLine(avatarPre.formatted(id) + "{0}", data.getNameTextMapHash()));
+                (id, data) -> h.newTranslatedLine(avatarPre.formatted(id) + "{0}", data.getNameTextMapHash()));
         // Items
         h.newSection("Items");
         val itemPre = getPad.apply(itemDataMap);
@@ -144,15 +141,14 @@ public final class Tools {
                     val name = getTextMapKey(data.getNameTextMapHash());
                     switch (data.getMaterialType()) {
                         case MATERIAL_BGM:
-                            val bgmName =
-                                    Optional.ofNullable(data.getItemUse())
-                                            .map(u -> u.get(0))
-                                            .map(ItemUseData::getUseParam)
-                                            .filter(u -> u.length > 0)
-                                            .map(u -> Integer.parseInt(u[0]))
-                                            .map(bgmId -> GameData.getHomeWorldBgmDataMap().get((int) bgmId))
-                                            .map(HomeWorldBgmData::getBgmNameTextMapHash)
-                                            .map(Language::getTextMapKey);
+                            val bgmName = Optional.ofNullable(data.getItemUse())
+                                    .map(u -> u.get(0))
+                                    .map(ItemUseData::getUseParam)
+                                    .filter(u -> u.length > 0)
+                                    .map(u -> Integer.parseInt(u[0]))
+                                    .map(bgmId -> GameData.getHomeWorldBgmDataMap().get((int) bgmId))
+                                    .map(HomeWorldBgmData::getBgmNameTextMapHash)
+                                    .map(Language::getTextMapKey);
                             if (bgmName.isPresent()) {
                                 h.newTranslatedLine(itemPre.formatted(id) + "{0} - {1}", name, bgmName.get());
                                 return;
@@ -166,10 +162,9 @@ public final class Tools {
         h.newSection("Monsters");
         val monsterPre = getPad.apply(monsterDataMap);
         monsterDataMap.forEach(
-                (id, data) ->
-                        h.newTranslatedLine(
-                                monsterPre.formatted(id) + data.getMonsterName() + " - {0}",
-                                data.getNameTextMapHash()));
+                (id, data) -> h.newTranslatedLine(
+                        monsterPre.formatted(id) + data.getMonsterName() + " - {0}",
+                        data.getNameTextMapHash()));
         // Scenes - no translations
         h.newSection("Scenes");
         val padSceneId = getPad.apply(sceneDataMap);
@@ -178,11 +173,10 @@ public final class Tools {
         h.newSection("Quests");
         val padQuestId = getPad.apply(questDataMap);
         questDataMap.forEach(
-                (id, data) ->
-                        h.newTranslatedLine(
-                                padQuestId.formatted(id) + "{0} - {1}",
-                                mainQuestTitles.get(data.getMainId()),
-                                data.getDescTextMapHash()));
+                (id, data) -> h.newTranslatedLine(
+                        padQuestId.formatted(id) + "{0} - {1}",
+                        mainQuestTitles.get(data.getMainId()),
+                        data.getDescTextMapHash()));
         // Achievements
         h.newSection("Achievements");
         val padAchievementId = getPad.apply(achievementDataMap);
@@ -200,31 +194,28 @@ public final class Tools {
         for (int i = 0; i < TextStrings.NUM_LANGUAGES; i++) {
             File GMHandbookOutputpath = new File("./GM Handbook");
             GMHandbookOutputpath.mkdir();
-            final String fileName =
-                    "./GM Handbook/GM Handbook - %s.txt".formatted(TextStrings.ARR_LANGUAGES[i]);
-            try (PrintWriter writer =
-                    new PrintWriter(
-                            new OutputStreamWriter(new FileOutputStream(fileName), StandardCharsets.UTF_8),
-                            false)) {
+            final String fileName = "./GM Handbook/GM Handbook - %s.txt".formatted(TextStrings.ARR_LANGUAGES[i]);
+            try (PrintWriter writer = new PrintWriter(
+                    new OutputStreamWriter(new FileOutputStream(fileName), StandardCharsets.UTF_8),
+                    false)) {
                 writer.write(handbookBuilders.get(i).toString());
             }
         }
 
-        if (message) Grasscutter.getLogger().info("GM Handbooks generated!");
+        if (message)
+            Grasscutter.getLogger().info("GM Handbooks generated!");
     }
 
     public static List<String> createGachaMappingJsons() {
         final int NUM_LANGUAGES = Language.TextStrings.NUM_LANGUAGES;
         final Language.TextStrings CHARACTER = Language.getTextMapKey(4233146695L); // "Character" in EN
         final Language.TextStrings WEAPON = Language.getTextMapKey(4231343903L); // "Weapon" in EN
-        final Language.TextStrings STANDARD_WISH =
-                Language.getTextMapKey(332935371L); // "Standard Wish" in EN
-        final Language.TextStrings CHARACTER_EVENT_WISH =
-                Language.getTextMapKey(2272170627L); // "Character Event Wish" in EN
-        final Language.TextStrings CHARACTER_EVENT_WISH_2 =
-                Language.getTextMapKey(3352513147L); // "Character Event Wish-2" in EN
-        final Language.TextStrings WEAPON_EVENT_WISH =
-                Language.getTextMapKey(2864268523L); // "Weapon Event Wish" in EN
+        final Language.TextStrings STANDARD_WISH = Language.getTextMapKey(332935371L); // "Standard Wish" in EN
+        final Language.TextStrings CHARACTER_EVENT_WISH = Language.getTextMapKey(2272170627L); // "Character Event Wish"
+                                                                                               // in EN
+        final Language.TextStrings CHARACTER_EVENT_WISH_2 = Language.getTextMapKey(3352513147L); // "Character Event
+                                                                                                 // Wish-2" in EN
+        final Language.TextStrings WEAPON_EVENT_WISH = Language.getTextMapKey(2864268523L); // "Weapon Event Wish" in EN
         final List<StringBuilder> sbs = new ArrayList<>(NUM_LANGUAGES);
         for (int langIdx = 0; langIdx < NUM_LANGUAGES; langIdx++)
             sbs.add(new StringBuilder("{\n")); // Web requests should never need Windows line endings
@@ -241,13 +232,12 @@ public final class Tools {
                             if (avatarID >= 11000000) { // skip test avatar
                                 return;
                             }
-                            String color =
-                                    switch (data.getQualityType()) {
-                                        case "QUALITY_PURPLE" -> "purple";
-                                        case "QUALITY_ORANGE" -> "yellow";
-                                        case "QUALITY_BLUE" -> "blue";
-                                        default -> "";
-                                    };
+                            String color = switch (data.getQualityType()) {
+                                case "QUALITY_PURPLE" -> "purple";
+                                case "QUALITY_ORANGE" -> "yellow";
+                                case "QUALITY_BLUE" -> "blue";
+                                default -> "";
+                            };
                             Language.TextStrings avatarName = Language.getTextMapKey(data.getNameTextMapHash());
                             for (int langIdx = 0; langIdx < NUM_LANGUAGES; langIdx++) {
                                 sbs.get(langIdx)
@@ -274,14 +264,14 @@ public final class Tools {
                             if (data.getId() <= 11101 || data.getId() >= 20000) {
                                 return; // skip non weapon items
                             }
-                            String color =
-                                    switch (data.getRankLevel()) {
-                                        case 3 -> "blue";
-                                        case 4 -> "purple";
-                                        case 5 -> "yellow";
-                                        default -> null;
-                                    };
-                            if (color == null) return; // skip unnecessary entries
+                            String color = switch (data.getRankLevel()) {
+                                case 3 -> "blue";
+                                case 4 -> "purple";
+                                case 5 -> "yellow";
+                                default -> null;
+                            };
+                            if (color == null)
+                                return; // skip unnecessary entries
                             Language.TextStrings weaponName = Language.getTextMapKey(data.getNameTextMapHash());
                             for (int langIdx = 0; langIdx < NUM_LANGUAGES; langIdx++) {
                                 sbs.get(langIdx)
@@ -329,9 +319,8 @@ public final class Tools {
         var usedLocales = new HashSet<String>();
         StringBuilder sb = new StringBuilder("mappings = {\n");
         for (int i = 0; i < Language.TextStrings.NUM_LANGUAGES; i++) {
-            String locale =
-                    Language.TextStrings.ARR_GC_LANGUAGES[i]
-                            .toLowerCase(); // TODO: change the templates to not use lowercased locale codes
+            String locale = Language.TextStrings.ARR_GC_LANGUAGES[i]
+                    .toLowerCase(); // TODO: change the templates to not use lowercased locale codes
             if (usedLocales.add(
                     locale)) { // Some locales fallback to en-us, we don't want to redefine en-us with
                 // vietnamese strings
@@ -422,7 +411,8 @@ public final class Tools {
                     .forEach(
                             line -> {
                                 var split = line.split(":");
-                                if (split.length != 2) return;
+                                if (split.length != 2)
+                                    return;
 
                                 var key = split[0].trim();
                                 var value = split[1].trim();
