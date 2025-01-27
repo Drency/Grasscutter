@@ -275,6 +275,10 @@
       {
         "itemId": 15301,
         "count": 1
+      },
+      {
+        "itemId": 12510,
+        "count": 1
       }
     ]
   },
@@ -303,7 +307,7 @@
         "count": 2000
       }
     ],
-    "randomCount": 1,
+    "randomCount": 2,
     "randomContent": [
       {
         "itemId": 13501,
@@ -343,6 +347,10 @@
       },
       {
         "itemId": 15301,
+        "count": 1
+      },
+      {
+        "itemId": 12510,
         "count": 1
       }
     ]
