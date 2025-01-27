@@ -21,6 +21,10 @@
       {
         "itemId": 104001,
         "count": 1
+      },
+      {
+        "itemId": 201,
+        "count": 114
       }
     ],
     "randomCount": 4,
@@ -86,6 +90,10 @@
       {
         "itemId": 104002,
         "count": 1
+      },
+      {
+        "itemId": 201,
+        "count": 228
       }
     ],
     "randomCount": 4,
@@ -155,6 +163,10 @@
       {
         "itemId": 104002,
         "count": 1
+      },
+      {
+        "itemId": 201,
+        "count": 456
       }
     ],
     "randomCount": 4,
@@ -224,6 +236,10 @@
       {
         "itemId": 104002,
         "count": 1
+      },
+      {
+        "itemId": 201,
+        "count": 1000
       }
     ],
     "randomCount": 4,
@@ -293,6 +309,10 @@
       {
         "itemId": 104002,
         "count": 1
+      },
+      {
+        "itemId": 201,
+        "count": 2000
       }
     ],
     "randomCount": 5,
