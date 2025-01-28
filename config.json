@@ -1,6 +1,6 @@
 {
   "folderStructure": {
-    "resources": "./GC-Resources-4.0.zip",
+    "resources": "./resources/",
     "data": "./data/",
     "packets": "./packets/",
     "scripts": "resources:Scripts/",
@@ -26,7 +26,6 @@
     "autoCreate": true,
     "EXPERIMENTAL_RealPassword": false,
     "defaultPermissions": ["*"],
-    "playerEmail": "grasscutter.io",
     "maxPlayer": -1
   },
   "server": {
@@ -91,6 +90,7 @@
         "energyUsage": true,
         "fishhookTeleport": true,
         "trialCostumes": false,
+        "forceLegacyDrops": true,
         "questing": {
           "enabled": true
         },
@@ -100,9 +100,9 @@
           "rechargeTime": 10
         },
         "rates": {
-          "adventureExp": 2.0,
-          "mora": 2.0,
-          "leyLines": 2.0
+          "adventureExp": 3,
+          "mora": 2,
+          "leyLines": 2
         },
         "handbook": {
           "enable": false,
@@ -206,5 +206,5 @@
       "logRequests": "ALL"
     }
   },
-  "version": 13
+  "version": 14
 }
