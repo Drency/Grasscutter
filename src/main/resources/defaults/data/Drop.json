@@ -47928,6 +47928,172 @@
     ]
   },
   {
+    "monsterId": 26020301,
+    "dropDataList": [
+      {
+        "itemId": 201,
+        "minCount": 5,
+        "maxCount": 100,
+        "minWeight": 9500,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104003,
+        "minCount": 1,
+        "maxCount": 3,
+        "minWeight": 9800,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104111,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104112,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104113,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104121,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104122,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104123,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104131,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104132,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104133,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104141,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104142,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104143,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104151,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104152,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104153,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104161,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104162,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104163,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104171,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9700,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104172,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9900,
+        "maxWeight": 10000
+      },
+      {
+        "itemId": 104173,
+        "minCount": 1,
+        "maxCount": 1,
+        "minWeight": 9970,
+        "maxWeight": 10000
+      }
+    ]
+  },
+  {
     "monsterId": 26020201,
     "dropDataList": [
       {
