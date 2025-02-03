@@ -14014,7 +14014,7 @@
       },
       {
         "itemId": 113023,
-        "minCount": 1,
+        "minCount": 3,
         "maxCount": 3,
         "minWeight": 0,
         "maxWeight": 10000
@@ -14519,7 +14519,7 @@
       },
       {
         "itemId": 113031,
-        "minCount": 1,
+        "minCount": 3,
         "maxCount": 3,
         "minWeight": 0,
         "maxWeight": 10000
@@ -47600,7 +47600,7 @@
       },
       {
         "itemId": 113012,
-        "minCount": 1,
+        "minCount": 3,
         "maxCount": 3,
         "minWeight": 0,
         "maxWeight": 10000
@@ -47939,7 +47939,7 @@
       },
       {
         "itemId": 113031,
-        "minCount": 1,
+        "minCount": 3,
         "maxCount": 3,
         "minWeight": 0,
         "maxWeight": 10000
