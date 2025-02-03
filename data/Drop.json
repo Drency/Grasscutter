@@ -13349,6 +13349,13 @@
         "maxWeight": 10000
       },
       {
+        "itemId": 113029,
+        "minCount": 3,
+        "maxCount": 3,
+        "minWeight": 0,
+        "maxWeight": 10000
+      },
+      {
         "itemId": 104003,
         "minCount": 1,
         "maxCount": 3,
